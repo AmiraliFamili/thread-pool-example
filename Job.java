@@ -1,5 +1,7 @@
 public class Job implements Runnable { 
   private int jobNumber;
+  
+  // this file was edited in BlueJ
 
   Job (int jobNumber){
       this.jobNumber = jobNumber;
